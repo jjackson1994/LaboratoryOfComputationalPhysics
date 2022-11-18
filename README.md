@@ -7,3 +7,4 @@ This repo contains
 
 * [Semester 1: Lecures](https://github.com/jjackson1994/LaboratoryOfComputationalPhysics/tree/main/Lessons)
 * [Semester 1: Home Works](https://github.com/jjackson1994/LaboratoryOfComputationalPhysics/tree/main/HW_tasks)
+* [Semester 1: Project](https://github.com/jjackson1994/LaboratoryOfComputationalPhysics/blob/main/Muon_Project.ipynb)
